@@ -9,5 +9,8 @@ main {
 }
 
 body {
-    background-image: url(record.png)
+    background-image: url(record.png);
+    background-repeat: repeat;
+    margin: 0;
+    padding: 1em;
 }
