@@ -20,3 +20,8 @@ body {
     color: beige;
     text-align: center;
 }
+
+.bodystretch{
+    background-image: url(record.png);
+    background-repeat: repeat-x;
+}
