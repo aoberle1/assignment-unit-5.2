@@ -25,3 +25,7 @@ body {
     background-image: url(record.png);
     background-repeat: repeat-x;
 }
+
+.mainstretch{
+    background-color: lightskyblue;
+}
